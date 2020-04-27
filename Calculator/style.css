@@ -1,6 +1,6 @@
 body{
 	font-family: 'Open Sans',sans-serif;
-	background-color: black;
+	background-color: white;
 }
 #container{
 	width: 1000px;
@@ -62,7 +62,7 @@ body{
 }
 button:nth-child(4){
 	font-size: 20px;
-	background-color: #20b2aa;
+	background-color: #ffa500;
 }
 button:nth-child(8){
 	font-size: 20px;
@@ -70,13 +70,13 @@ button:nth-child(8){
 }
 button:nth-child(12){
 	font-size: 20px;
-	background-color: #f08080;
+	background-color: #ffa500;
 }
 button:nth-child(16){
 	font-size: 20px;
-	background-color: #7d93e0;
+	background-color: #ffa500;
 }
 button:nth-child(20){
 	font-size: 20px;
-	background-color: #9477af;
+	background-color: #ffa500;
 }
